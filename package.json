@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/huw-steele/create-prototype-shell/issues"
   },
-  "homepage": "https://github.com/huw-steele/create-prototype-shell#readme"
+  "homepage": "https://github.com/huw-steele/create-prototype-shell#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "create-prototype-shell": "index.js"
+  }
 }
