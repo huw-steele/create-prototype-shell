@@ -1,0 +1,19 @@
+{
+  "name": "create-prototype-shell",
+  "version": "1.0.0",
+  "description": "Customised CRA for quick prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huw-steele/create-prototype-shell.git"
+  },
+  "author": "Huw Steele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huw-steele/create-prototype-shell/issues"
+  },
+  "homepage": "https://github.com/huw-steele/create-prototype-shell#readme"
+}
